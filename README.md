@@ -8,7 +8,7 @@ JaCoCo 이용
 
 
 * Pom.xml 플러그인 추가
-
+~~~
 <plugin>
 <groupId>org.jacoco</groupId>
 <artifactId>jacoco-maven-plugin</artifactId>
@@ -28,11 +28,11 @@ JaCoCo 이용
 </execution>
 </executions>
 </plugin>
-
+~~~
 
 
 % 이 제한 조건
-
+~~~
 <execution>
 <id>jacoco-check</id>
 <goals>
@@ -53,5 +53,5 @@ JaCoCo 이용
 </rules>
 </configuration>
 </execution>
-
+~~~
 
