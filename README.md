@@ -1,4 +1,4 @@
-# JavaMaipulation
+# JavaManipulation
 
 ### Java Code 의 조작
 
